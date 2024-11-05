@@ -1,0 +1,13 @@
+#index reference genome
+samtools faidx assembly.fasta
+
+#use seqkit to extract scaffold names
+seqkit seq assembly.fasta -n > scaffolds.txt
+
+#extract just the top N90 count
+head -n $N90.count scaffolds.txt > N90_scaffolds.txt
+
+#extract just those scaffolds from assembly
+samtools faidx -r N90_scaffolds.txt > assembly_N90_scaffolds.fasta
+
+#for extracting just scaffolds containing busco look at the full_table_tsv busco output and this will tell you which scaffolds contain buscos

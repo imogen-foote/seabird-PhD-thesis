@@ -1,4 +1,3 @@
-# seabird-PhD-thesis
 All bash scripts for analyses run for my PhD thesis 'Population genomics of Antipodean and Gibson’s albatross and use of genetic markers for threatened seabird species identification'.
 
 !!insert link to pdf of final thesis!!

@@ -1,4 +1,4 @@
-All bash scripts for analyses run for my PhD thesis [Population genomes of Antipodean and Gibson's albatross and use of genetic markers for threatened seabird species identification](https://openaccess.wgtn.ac.nz/articles/thesis/Population_genomics_of_Antipodean_and_Gibson_s_albatross_and_use_of_genetic_markers_for_threatened_seabird_species_identification/27688116?file=50423310)
+All bash scripts for analyses run for my PhD thesis [Population genomics of Antipodean and Gibson's albatross and use of genetic markers for threatened seabird species identification](https://openaccess.wgtn.ac.nz/articles/thesis/Population_genomics_of_Antipodean_and_Gibson_s_albatross_and_use_of_genetic_markers_for_threatened_seabird_species_identification/27688116?file=50423310)
 
 [**CHAPTER 3. Using genetic markers to identify seabirds caught in Aotearoa New Zealand fisheries**](https://github.com/imogen-foote/seabird-PhD-thesis/tree/main/chapter-3)
 
